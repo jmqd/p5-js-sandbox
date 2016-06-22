@@ -39,7 +39,6 @@ function branch(len) {
         rotate(-angle);
         branch(len * mult)
         pop();
-    } else {
     }
 }
 
